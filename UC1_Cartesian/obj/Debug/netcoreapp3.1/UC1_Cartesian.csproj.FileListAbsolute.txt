@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\bin\Debug\netcoreapp3.1\UC1_Cartesian.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Cartesian\UC1_Cartesian\obj\Debug\netcoreapp3.1\UC1_Cartesian.genruntimeconfig.cache
